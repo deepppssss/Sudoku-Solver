@@ -4,7 +4,7 @@ A modern, responsive web-based Sudoku application designed to provide an engagin
 
 ## Live Demo
 
-Coming Soon
+Live Demo - https://logicgrid-sudoku.vercel.app/
 
 ## Features
 
