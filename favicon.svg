@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+    <!-- Dark rounded background -->
+    <rect x="0" y="0" width="512" height="512" rx="120" fill="#0f172a" />
+    
+    <!-- Top-left white L -->
+    <path d="M 140 296 L 140 200 A 60 60 0 0 1 200 140 L 372 140" stroke="#f8fafc" stroke-width="80" fill="none" stroke-linecap="butt" />
+    
+    <!-- Bottom-right white L -->
+    <path d="M 372 216 L 372 312 A 60 60 0 0 1 312 372 L 140 372" stroke="#f8fafc" stroke-width="80" fill="none" stroke-linecap="butt" />
+    
+    <!-- Center blue square -->
+    <rect x="216" y="216" width="80" height="80" fill="#3b82f6" />
+</svg>
